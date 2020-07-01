@@ -11,5 +11,6 @@ class Shoe
   end
 
   def condition
-    "new" if cobble 
+    "new" if cobble
+  end
 end
